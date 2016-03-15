@@ -1,0 +1,31 @@
+class UIKitData{
+    var UIKitdata:[String:String] =
+    [
+        "UILabel":"ラベルクラス",
+        "UIImageView":"画像ビュークラス",
+        "UIVisualEffectView":"磨りガラス効果クラス",
+        "UIControl":"コントロール",
+        "UIButton":"ボタンクラス",
+        "UISwitch":"スイッチクラス",
+        "UISlider":"スライダークラス",
+        "UIStepper":"ステッパー",
+        "UIPageControl":"ページコントロール",
+        "UISegmentedControl":"セグメンテッドコントロール",
+        "UITextField":"テキストフィールド",
+        "UIRefreshControl":"リフレッシュコントロール",
+        "UIPickerView":"ピッカービュー",
+        "UIDatePicker":"デイトピッカー",
+        "UINavigationBar":"ナビゲーションバー",
+        "UIToolBar":"ツールバー",
+        "UITabBar":"タブバー",
+        "UISearchBar":"サーチバー",
+        "UIProgressView":"プログレスビュー",
+        "UIActivityIndicatorView":"アクティビティーインディケータービュー",
+        "UIAlertController":"アラートコントロール",
+        "UIScrollView":"スクロールビュー",
+        "UITextView":"テキストビュー",
+        "UIWebView":"ウェブビュー",
+        "UITableView":"テーブルビュー",
+        "UITableViewCell":"テーブルビューセル",
+    ]
+}
